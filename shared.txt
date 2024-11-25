@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is the shared file
 Team A made a change
+=======
+Team A made a change
+Team B made a change
+>>>>>>> team-b-branch
